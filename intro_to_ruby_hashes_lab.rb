@@ -9,7 +9,7 @@ end
 def monopoly_with_third_tier
 	{ :railroads => {
 			:names => {
-				:name1 => {},
+				:reading_railroad => {},
 				:name2 => {},
 				:name3 => {},
 				:name4 => {}
